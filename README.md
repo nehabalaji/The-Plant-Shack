@@ -1,6 +1,6 @@
 # The_Plant_Shack-Starter_Code
 
-The starter code to build the following ui using jetpack compose.
+Code to design the following ui in compose
 
 ![Screenshot_20221226_160151](https://user-images.githubusercontent.com/55323591/209670832-efb59388-6c2e-4cd9-84da-2f8c41101c77.png)
 
